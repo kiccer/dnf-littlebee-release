@@ -1,0 +1,4 @@
+owner: kiccer
+repo: dnf-littlebee
+provider: github
+updaterCacheDirName: dnf-littlebee-updater
